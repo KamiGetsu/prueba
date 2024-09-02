@@ -1,0 +1,28 @@
+body{
+    background-image: url(../imgs/hombre-ldnoi-10-a.jpg);
+    image-rendering: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    backdrop-filter:blur(1.5rem);
+    overflow: hidden;
+    font-family: monospace;
+    backdrop-filter: blur(10px);
+}
+.regis{
+    width: 20%;
+    position: relative;
+    top: 200px;
+    left: 40%;
+    text-align: center;
+    background-color: #d3d5d8;
+    font-size: 30px;
+    opacity: 0.8;
+    box-shadow: 0px 0px 25px #222;
+    border-radius: 15px;
+}
+.boton{
+    position: relative;
+    font-size: 20px;
+    font-weight:100px;
+    
+}
